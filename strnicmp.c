@@ -71,6 +71,8 @@ int strncmp_srk(const char *str1, const char *str2, size_t n) {
 
 
 
+// gcc strnicmp.c -o build/strn; build/strn
+
 int main() {
 
     int num_of_test_cases = sizeof(test_cases) / sizeof(struct test_case_s);
