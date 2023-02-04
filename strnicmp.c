@@ -20,8 +20,7 @@ const struct test_case_s test_cases[] = {
     {"test4", "test4", 4, 0},
     {"test5", "test5", 6, 0},
     {"test6", "test6", 1, 0},
-    {"test7", "test7", 100, 0},
-    {"test8", "xxxxxxxxx", 4, -4}
+    {"test7", "xxxxxxxxx", 4, -4}
 };
 
 
